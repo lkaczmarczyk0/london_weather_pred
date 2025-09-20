@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project project runs experiments for different regression models predicting the mean temperature, using a combination of sklearn and MLflow.
+This project runs experiments for different regression models predicting the mean temperature, using a combination of sklearn and MLflow.
 
 ## 📦 Dataset
 
