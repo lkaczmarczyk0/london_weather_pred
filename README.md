@@ -15,6 +15,7 @@ This project project runs experiments for different regression models predicting
 
 - **Numerical features**:
   - Imputation: `SimpleImputer(strategy='median')`
+  - Scaling: `StandardScaler`
 
 ## ⚙️ Models
 
