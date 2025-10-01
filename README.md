@@ -20,5 +20,5 @@ This project runs experiments for different regression models predicting the mea
 ## ⚙️ Models
 
 - **Model_1**: `LinearRegression`
-- **Model_2**: `DecisionTreeRegressorr`
-- **Model_3**: `RandomForestRegressorr`
+- **Model_2**: `DecisionTreeRegressor`
+- **Model_3**: `RandomForestRegressor`
